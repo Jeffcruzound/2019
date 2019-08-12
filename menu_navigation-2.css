@@ -52,14 +52,17 @@ nav ul li a:active {
     }
 }
 body{
-    background-image: url("texture-backgrounde.jpg");
+    background-image: url("image_animal/texture-backgrounde.jpg");
     background-size: cover;
      
 }  
 body#home{
-    background-image: url("roland.png");
+    background-image: url("image_animal/roland.png");
     background-size: cover;
 }  
 h1{
     text-align: center;
+}
+article{
+    margin : 1em 0 0 0;
 }
