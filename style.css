@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06-août-2019, 16:21:51
+    Author     : µ
+*/
+p.centre{
+    text-align: center;
+}
+p{
+    color: blue;
+}
+h1{
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px 4px #000000;
+
+}
+h2{
+    background-color:  blueviolet;
+    color: white;
+
+
+    background: rgba(169,3,41,1);
+    background: -moz-linear-gradient(left, rgba(169,3,41,1) 0%, rgba(109,0,25,1) 25%, rgba(109,0,25,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(169,3,41,1)), color-stop(25%, rgba(109,0,25,1)), color-stop(100%, rgba(109,0,25,1)));
+    background: -webkit-linear-gradient(left, rgba(169,3,41,1) 0%, rgba(109,0,25,1) 25%, rgba(109,0,25,1) 100%);
+    background: -o-linear-gradient(left, rgba(169,3,41,1) 0%, rgba(109,0,25,1) 25%, rgba(109,0,25,1) 100%);
+    background: -ms-linear-gradient(left, rgba(169,3,41,1) 0%, rgba(109,0,25,1) 25%, rgba(109,0,25,1) 100%);
+    background: linear-gradient(to right, rgba(169,3,41,1) 0%, rgba(109,0,25,1) 25%, rgba(109,0,25,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019', GradientType=1 );
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+img{
+    border-style: solid;
+    border-color: maroon;
+    border-width: 15px;
+    border-radius: 36px 36px 50px 50px;
+    -moz-border-radius: 36px 36px 50px 50px;
+    -webkit-border-radius: 36px 36px 50px 50px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+body{
+
+    /*background: rgba(255,255,255,1);
+    background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,1)), color-stop(47%, rgba(246,246,246,1)), color-stop(100%, rgba(237,237,237,1)));
+    background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+    background: -o-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+    background: -ms-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+    background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=1 );
+    */
+    background-image: url("image_animal/turntable-2157300_1920.jpg");
+
+
+}
